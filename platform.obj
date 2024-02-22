@@ -1,6 +1,5 @@
 # Blender 4.0.2
 # www.blender.org
-mtllib platform.mtl
 o oar_tram
 v -105.789635 38.139961 54.186546
 v -105.789635 38.139961 36.185513
